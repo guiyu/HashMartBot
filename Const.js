@@ -5,9 +5,9 @@ Const.useMlab = false;
 //Live
 // Const.botToken = "机器人ID";
 //Debug
-Const.botToken = "机器人ID";
+Const.botToken = "7034601818:AAGc4uYq_dtRdOxSOR_5d5ygtdj7ebWeGfE";
 Const.myId = parseInt(Const.botToken.split(":")[0]);
-Const.myName = "机器人的username";
+Const.myName = "hashmart-bot";
 Const.myName = Const.myName.toLowerCase();
 
 //以下是峰哥的数据库服务器，可以工作，可以用，没有数据库的可以保留

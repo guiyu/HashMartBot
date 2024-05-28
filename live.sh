@@ -3,7 +3,7 @@
 # 你也可以布署到你的LIVE机器人deploy id, 但不建议这么做
 # 注意，如果你的机器人绑定的URL是Head Deployment 的URL，将无法使用以下代码
 #Live
-deployId=AKfycbwGJegZbUzaJSIIKQrXLLVmMPrGH1zxJZffN3jKh5Q5_TBMkv9nC1rVbF0Qzq0GVdfN
+deployId=AKfycbyCop_H-yq0efCyXrcycdkKZl9q0CLTzrCeZ4zKD0kPA2ml8ZB4uV9LiKxlfovl9HZH
 clasp push
 # A=`clasp version debug`
 # version=`echo $A | cut -d 'd' -f2 | cut -d ' ' -f3 | cut -d '.' -f1` 

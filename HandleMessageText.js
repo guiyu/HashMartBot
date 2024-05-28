@@ -115,7 +115,7 @@ function handleMessageText(body) {
     }
 
     if (command.indexOf("/initdb") == 0) {
-      return handleInitDBCommand(body, paras, origParas);
+      // return handleInitDBCommand(body, paras, origParas);
     }
 
 
